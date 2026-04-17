@@ -1,2 +1,2 @@
 # Banking-System
-A basic C++ banking system implementing account operations like deposit, withdrawal, transfer, and transaction history using OOP concepts.
+This project is a simple banking system built in C++ using object-oriented programming concepts. It allows users to perform basic operations like deposit, withdrawal, and fund transfer between accounts while also maintaining a transaction history. The program demonstrates the use of classes, vectors, and control structures to simulate real-world banking functionality in a beginner-friendly way.
